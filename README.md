@@ -1,1 +1,1 @@
-### Hi, there🐼 I’m rachel:)
+### Hi, there! I’m rachel 🐯
