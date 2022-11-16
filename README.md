@@ -15,7 +15,7 @@ const rachel = {
               goodToUseTogether: [Styled-Components, Pug, Framer Motion, Webflow],
               studying: [Swift, DataScience],
               collaborationTools: [Git, Slack, Notion, Figma],
- },
+            },
 }
 ```
 
