@@ -8,11 +8,11 @@
 
 ```javascript
 const rachel = {
- name: "Rachel" | "Chongmi Moon🇰🇷",
+ name: "Rachel" | "Chongmi Moon",
  techStack: {
               code: [Python, JavaScript, Typescript, HTML5, CSS3, React],
-              used: [Node, MongoDB, Flask, React-Native],
-              goodToUseTogether: [Styled-Components, Pug, Framer Motion, Webflow],
+              used: [NodeJS, MongoDB, Flask, React-Native],
+              goodToUseTogether: [Styled-Components, Pug, Webflow],
               studying: [Swift, DataScience],
               collaborationTools: [Git, Slack, Notion, Figma],
             },
@@ -22,13 +22,13 @@ const rachel = {
 <p align="center">
   <a href="https://skillicons.dev">
     <h4> Commonly Used Languages </h4>
-    <img src="https://skillicons.dev/icons?i=js,py,react,ts,html,css" />
-    <h4> Used Languages </h4>
+    <img src="https://skillicons.dev/icons?i=py,js,react,ts,html,css" />
+    <h4> Used </h4>
       <img src="https://skillicons.dev/icons?i=flask,mongodb,nodejs,pug" />
     <h4> Currently interested </h4>
       <img src="https://skillicons.dev/icons?i=swift" />
     <h4> Tools </h4>
-      <img src="https://skillicons.dev/icons?i=git,figma,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
   </a>
 </p>
 <hr>
