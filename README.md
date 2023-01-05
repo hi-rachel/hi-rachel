@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/103404125/210734959-bc512784-3831-41e4-8efe-2e8ec36f8e9e.png" width=380px align="right"/>
+<img src="https://user-images.githubusercontent.com/103404125/210734959-bc512784-3831-41e4-8efe-2e8ec36f8e9e.png" width=360px align="right"/>
 
 <h1> Hi, there! I’m Rachel </h1> 
 <p> I like to build something awesome 💖 </p>
