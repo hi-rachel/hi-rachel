@@ -1,6 +1,4 @@
-<h1> Hi, there! I’m Rachel
-  <img align="right" src="https://github.com/hi-rachel/projects/blob/master/img/img.png" width="300px" />
-</h1>
+<h1> Hi, there! I’m Rachel </h1> 
 <p> I like to build something awesome 💖 </p>
 <p> For me, <b>Growth is Happiness! 🪴</b> </p>
 
@@ -10,10 +8,9 @@
 const rachel = {
  name: "Rachel" | "Chongmi Moon",
  techStack: {
-              code: [Python, JavaScript, Typescript, HTML5, CSS3, React],
-              used: [NodeJS, MongoDB, Flask, React-Native],
-              goodToUseTogether: [Styled-Components, Pug, Webflow],
-              studying: [Swift, DataScience],
+              code: [JavaScript, Typescript, React, Python, HTML5, CSS3],
+              used: [NodeJS, MongoDB],
+              goodToUseTogether: [Styled-Components, Pug],
               collaborationTools: [Git, Slack, Notion, Figma],
             },
 }
@@ -21,12 +18,10 @@ const rachel = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <h4> Commonly Used Languages </h4>
-    <img src="https://skillicons.dev/icons?i=py,js,react,ts,html,css" />
+    <h4> Commonly Used </h4>
+    <img src="https://skillicons.dev/icons?i=js,react,ts,nodejs,py,html,css" />
     <h4> Used </h4>
-      <img src="https://skillicons.dev/icons?i=flask,mongodb,nodejs,pug" />
-    <h4> Currently interested </h4>
-      <img src="https://skillicons.dev/icons?i=swift" />
+      <img src="https://skillicons.dev/icons?i=mongodb,flask,pug" />
     <h4> Tools </h4>
       <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
   </a>
