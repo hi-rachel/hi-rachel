@@ -10,7 +10,7 @@ const rachel = {
               language: [ES6, HTML5, CSS3, Typescript, Python],
               library: [React, pandas],
               database: [MySQL, MongoDB],
-              goodToUseTogether: [NodeJS, Styled-Components, Pug],
+              goodToUseTogether: [NodeJS, Styled-Components],
               collaborationTools: [Git, Slack, Notion, Figma],
             },
 }
