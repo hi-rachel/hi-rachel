@@ -1,7 +1,6 @@
 ## Hi, I'm Frontend Developer Rachel 👩🏻‍💻
-> I like to build something awesome 💖
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rachel&theme=ambient_gradient&show_icons=true&hide_border=true)](https://github.com/hi-rachel/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rachel&theme=ambient_gradient&show_icons=true&hide_border=true&border_radius=8)](https://github.com/hi-rachel/github-readme-stats)
 
 ### 🪐 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
