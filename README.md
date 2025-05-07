@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi, I'm SW Developer 👩🏻‍💻👋
+## Hi, I'm SW Engineer 👩🏻‍💻👋
 I like to build something awesome 💖
 
 ## 🌱 Github Stats
