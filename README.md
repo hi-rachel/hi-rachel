@@ -3,6 +3,14 @@
 ## Hi, I'm SW Engineer 👩🏻‍💻👋
 I like to build something awesome 💖
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hi-rachel&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/hi-rachel"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 🌱 Github Stats
 [![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rachel&theme=ambient_gradient&show_icons=true&hide_border=true&border_radius=8)](https://github.com/hi-rachel/github-readme-stats)
 
