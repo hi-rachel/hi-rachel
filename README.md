@@ -6,7 +6,7 @@ I like to build something awesome 💖
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hi-rachel&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/hi-rachel"
-  width="600"
+  width="450"
   height="300"
 />
 </a>
