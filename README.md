@@ -24,9 +24,9 @@ I like to build something awesome 💖
 
 🎶 BitBetter | Playlists
 
-나만의 플레이리스트 만들기
+나만의 플레이리스트 만들어서 공유하기
 
-https://bitbetter.vercel.app/playlist
+👉 https://bitbetter.vercel.app/playlist
 
 ## 🪐 Skills
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
