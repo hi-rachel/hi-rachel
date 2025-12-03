@@ -3,12 +3,30 @@
 ## Hi, I'm SW Engineer Raina 👩🏻‍💻👋
 I like to build something awesome 💖
 
-## 🌱 Github Stats
-[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-rachel&theme=ambient_gradient&show_icons=true&hide_border=true&border_radius=8)](https://github.com/hi-rachel/github-readme-stats)
+## ✏️ Projects
+📩 하코테 (하루코딩테스트)
 
+매일 한 문제, 코딩 테스트 준비 알고리즘 메일링 서비스
 
-## ✏️ Problem Solving
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=rachelel)](https://solved.ac/rachelel)
+👉 https://www.hakote.dev/
+
+🌱 WID (What I Did)
+
+매일 회고 자동화 + GitHub 1일 1커밋 연동 서비스
+
+👉 https://what-i-did.cloud/
+
+📝 UniMemo
+
+언제 어디서든 간편한 메모 앱
+
+👉 https://unimemo.vercel.app/
+
+🎶 BitBetter | Playlists
+
+나만의 플레이리스트 만들기
+
+https://bitbetter.vercel.app/playlist
 
 ## 🪐 Skills
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,9 +44,7 @@ I like to build something awesome 💖
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-
-## 📚 Studying
-
+<br/>
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![ReactQuery](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=React-Query&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
